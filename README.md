@@ -8,5 +8,5 @@
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/>
 </a>
 <a href="https://www.gnu.org/software/bash/">
-  <img src="/mnt/data/ce74804b-c67f-413f-999b-d0684371b403.png" alt="Bash Logo" width="100"/>
+  <img src="images/bash-logo.png" alt="Bash Logo" width="100"/>
 </a>
