@@ -6,5 +6,5 @@
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50"/>
 </a>
 <a href="https://www.python.org/">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="50"/>
 </a>
