@@ -1,6 +1,9 @@
 ## Languages
 
-<!-- Resized R and Python logos side by side -->
+<!-- R, Python, and Bash logos side by side -->
+
+![Bash Logo](images/bash-logo.png)
+
 <a href="https://www.r-project.org/">
   <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Logo" width="50"/>
 </a>
