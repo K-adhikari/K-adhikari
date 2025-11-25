@@ -7,5 +7,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 
 ## Operating systems
 <!-- Unix and Mac logos side by side -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" height=50 width=50 /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" height=50 width=50 /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" height=50 width=50 /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" height=50 width=50 /> 
