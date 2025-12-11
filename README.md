@@ -1,4 +1,4 @@
-## Languages
+## Programming Languages
 
 <!-- R, Python, and Bash logos side by side -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" height=50 width=50 /> <img
