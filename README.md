@@ -9,3 +9,9 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 <!-- Unix and Mac logos side by side -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" height=50 width=50 /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" height=50 width=50 /> 
+
+
+## Other tools
+<!-- Mysql and Jira logos side by side -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" height=50 width=50 />
