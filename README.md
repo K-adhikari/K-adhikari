@@ -12,6 +12,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.
 
 
 ## Other tools
-<!-- Mysql and Jira logos side by side -->
+<!-- Mysql, SQLite, and Jira logos side by side -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" height=50 width=50 />
+src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" height=50 width=50 /> <img                                                src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" height=50 width=50 />
