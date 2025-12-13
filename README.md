@@ -11,7 +11,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/python/python-origina
 src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" height=50 width=50 /> 
 
 
-## Version Control
+## Version Control Tools
 <!-- Github -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" height=50 width=50 />
 
