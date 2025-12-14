@@ -19,7 +19,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.
 ## Dev Ops
 <!-- Dcoker and Conda side by side -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 /> <img
-src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=50 />
+src="https://docs.crc.nd.edu/_images/conda.png" title="Conda" height=50 width=80 />
 
 
 ## Other Tools
