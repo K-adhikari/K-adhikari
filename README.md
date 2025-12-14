@@ -16,6 +16,11 @@ src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" height=50 width=50 />
 
 
+## Dev Ops
+<!-- Dcoker and Conda side by side -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" height=50 width=50 />
+
+
 ## Other Tools
 <!-- Mysql, SQLite, and Jira logos side by side -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height=50 width=50 /> <img
